@@ -1,4 +1,4 @@
-# UTA Coding Bootcamp Challenge  -- Logo Generator
+# UTA Coding Bootcamp Challenge  -- Logo Maker
 
 ## Description
 
